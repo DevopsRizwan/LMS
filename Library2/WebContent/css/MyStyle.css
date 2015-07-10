@@ -1,0 +1,63 @@
+@CHARSET "ISO-8859-1";
+
+.button {
+   border-top: 1px solid #14405c;
+   background: #d1aab9;
+   background: -webkit-gradient(linear, left top, left bottom, from(#b5d5e6), to(#d1aab9));
+   background: -webkit-linear-gradient(top, #b5d5e6, #d1aab9);
+   background: -moz-linear-gradient(top, #b5d5e6, #d1aab9);
+   background: -ms-linear-gradient(top, #b5d5e6, #d1aab9);
+   background: -o-linear-gradient(top, #b5d5e6, #d1aab9);
+   positioin:static;
+   height:30px;
+   width:167px;
+   padding: 7px 14px;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #291b24;
+   font-size: 15px;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   
+   }
+.button:hover {
+   border-top-color: #daedf0;
+   background: #daedf0;
+   color: #942c94;
+   }
+.button:active {
+   border-top-color: #68a8c4;
+   background: #68a8c4;
+   }
+h1{
+   color:red;
+   font-family: arial;
+   align:center;
+	
+	}
+h3{
+	color:red;
+	font:arial;
+    align:center;
+}	
+.textboxstyle{
+background-image:url('image/search2.jpg');
+background-repeat: no-repeat;
+background-position: center left;
+padding-left: 5px;
+}
+   
+.table2
+{
+background-image:url('images/back.jpg');
+background-repeat:repeat;
+padding-left: 5px;
+}  
+   
+   
